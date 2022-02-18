@@ -19,7 +19,8 @@ body{
     border-radius: 40px;
     width: 30%;
     margin-top: 0%;
-    box-shadow: 2px 1px 1px rgb(231, 225, 225), 2px 6px 20px rgb(34, 36, 35)
+    box-shadow: 2px 1px 1px rgb(231, 225, 225), 2px 6px 20px rgb(34, 36, 35);
+    object-fit: cover;
  }
   fieldset{
       border: 3px solid #1EFF90;
