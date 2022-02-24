@@ -18,7 +18,6 @@ body{
     background-color: rgba(0, 0, 0, 0.6);
     padding: 10px;
     border-radius: 40px;
-    width: 30%;
     margin-top: 0%;
     box-shadow: 2px 1px 1px rgb(231, 225, 225), 2px 6px 20px rgb(34, 36, 35);
     object-fit: cover;
@@ -40,6 +39,8 @@ body{
       
   }
   .inputBox{
+    whidth: 100%;
+    max-width:980px
     position: relative;
   }
   .inputUser{
@@ -55,6 +56,8 @@ body{
     
   }
   .labelInput{
+    whidth: 100%;
+    max-width:980px
     position: absolute;
     top: 0px;
     left: 0px;
@@ -67,6 +70,8 @@ body{
     top: -20px;
     font-size: 13px;
     color: #90FF1E;
+    whidth: 100%;
+    max-width:980px
     
     
     
@@ -88,19 +93,26 @@ body{
   }
   #submit:hover{
     background-image: linear-gradient(to right, #66B164, gray);
+    whidth: 100%;
+    max-width:980px
     
   }
   footer{
+    whidth: 100%;
+    max-width:980px
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
 }
 footer p{
+    whidth: 100%;
+    max-width:980px
     margin: 0;
     font-size: 0.7em;
 }
 footer img{
-  width: 40px;
+    whidth: 100%;
+    max-width:980px 
     height: 40px;
     padding-left: 5px;
     padding-right: 5px;
