@@ -2,6 +2,9 @@ body{
     font-family: 'Rajdhani', sans-serif;
     font-size:17px;
     background-image: linear-gradient(to right, white, green);
+    whidth: 100%;
+    max-width:980px
+    
 }
 
   .box{
@@ -40,7 +43,8 @@ body{
     outline: none;
     color: white;
     font-size: 15px;
-    width: 100%;
+    whidth: 100%;
+    max-width:980px
     letter-spacing: 2px;
     
   }
@@ -63,7 +67,8 @@ body{
   }
   #submit{
     background-image: linear-gradient(to left, green, #1E2D2A);  
-    width: 100%;
+    whidth: 100%;
+    max-width:980px
     border:none;
     padding: 15px;
     color: white;
